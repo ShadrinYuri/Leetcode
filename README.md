@@ -14,5 +14,7 @@
 
 1. Скачивание всего репозитория
   - `cd ...` перейти в нужную папку
-  - `git clone `
+  - `git clone https://github.com/ShadrinYuri/Leetcode.git`
   
+2. Скачивание только уникальных файлов из репозитория
+  - `git pull`
