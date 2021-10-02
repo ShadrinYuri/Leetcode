@@ -17,4 +17,4 @@
   - `git clone https://github.com/ShadrinYuri/Leetcode.git`
   
 2. Скачивание только уникальных файлов из репозитория
-  - `git pull`
+  - `git pull https://github.com/ShadrinYuri/Leetcode.git`
