@@ -1,6 +1,7 @@
 # Leetcode
 
 ## Команды:
+
 - `git init`
 - `git add .`
 - `git commit -m "<comment>"`
@@ -9,3 +10,9 @@
   - Username: ShadrinYuri
   - Password: <Token in Github>
 
+## Дополнительные команды:
+
+1. Скачивание всего репозитория
+  - `cd ...` перейти в нужную папку
+  - `git clone `
+  
