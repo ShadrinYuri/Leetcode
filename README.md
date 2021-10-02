@@ -1,0 +1,4 @@
+# Leetcode
+
+## Команды:
+- `git init`
